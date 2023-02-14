@@ -1,0 +1,28 @@
+/* h1 {
+    text-align: center;
+    font-family: 'Marcellus SC', serif;
+}
+
+p {
+    text-align: justify;
+    font-family: 'Montserrat', sans-serif;
+} */
+
+a {
+    text-decoration: none;
+    text-align: center;
+    font-family: 'Marcellus SC', serif;
+    font-weight: bolder;
+    font-size: large;
+    color: aliceblue;
+    padding-top: 30px;
+}
+
+.dd {
+    size: 100%;
+    text-align: center;
+    margin: auto;
+    width: 100%;
+    height: 100%;
+    padding: 10px;
+}
